@@ -1,7 +1,5 @@
 package com.educandoweb.course.config;
 
-import java.lang.reflect.Array;
-import java.util.ArrayList;
 import java.util.Arrays;
 
 import org.springframework.beans.factory.annotation.Autowired;
